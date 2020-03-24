@@ -37,9 +37,4 @@ exports.UploadFileToFtp = async function () {
     }
     client.close()
 
-
-
-
-
-
 }
